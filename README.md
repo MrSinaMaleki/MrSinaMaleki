@@ -9,8 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSInaMaleki&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Pharmacy&theme=dark)](https://github.com/MrSinaMaleki/Pharmacy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Online-coffee-shop&theme=dark)](https://github.com/MrSinaMaleki/Online-coffee-shop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Music-Scraper-Django&theme=dark)](https://github.com/MrSinaMaleki/Music-Scraper-Django)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Torobche&theme=dark)](https://github.com/MrSinaMaleki/Music-Scraper-Django)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Pharmacy&theme=cobalt)](https://github.com/MrSinaMaleki/Pharmacy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Online-coffee-shop&theme=cobalt)](https://github.com/MrSinaMaleki/Online-coffee-shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Music-Scraper-Django&theme=cobalt)](https://github.com/MrSinaMaleki/Music-Scraper-Django)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Torobche&theme=cobalt)](https://github.com/MrSinaMaleki/Music-Scraper-Django)
 
