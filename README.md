@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on some Django projects
 - 📫 Sina67631@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSinaMaleki&show_icons=true&theme=transparent)
