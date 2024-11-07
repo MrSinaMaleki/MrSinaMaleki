@@ -2,6 +2,14 @@
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
+👨🏻‍💻 About Me:
+---
+- 👋 Hi, I’m @MrSinaMaleki
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python & Django
+- 💞️ I’m looking to collaborate on some Django projects
+- 📫 Sina67631@gmail.com
+
 
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -13,13 +21,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
-👨🏻‍💻 About Me:
----
-- 👋 Hi, I’m @MrSinaMaleki
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python & Django
-- 💞️ I’m looking to collaborate on some Django projects
-- 📫 Sina67631@gmail.com
+
 
 ---
 
