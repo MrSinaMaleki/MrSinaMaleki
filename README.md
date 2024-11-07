@@ -2,6 +2,8 @@
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
+  [![Stats](https://github-readme-stats.vercel.app/api?username=MrSinaMaleki&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 👨🏻‍💻 About Me:
 ---
 - 👋 Hi, I’m @MrSinaMaleki
@@ -25,7 +27,7 @@
 
 ---
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=MrSinaMaleki&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Pharmacy&theme=transparent)](https://github.com/MrSinaMaleki/Pharmacy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSinaMaleki&repo=Online-coffee-shop&theme=transparent)](https://github.com/MrSinaMaleki/Online-coffee-shop)
