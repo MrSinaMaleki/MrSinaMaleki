@@ -4,12 +4,6 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 👋 Hi, I’m @MrSinaMaleki
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python & Django
-- 💞️ I’m looking to collaborate on some Django projects
-- 📫 Sina67631@gmail.com
-
 
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=MrSinaMaleki&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -30,6 +24,14 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
+
+👨🏻‍💻 About Me:
+---
+- 👋 Hi, I’m @MrSinaMaleki
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python & Django
+- 💞️ I’m looking to collaborate on some Django projects
+- 📫 Sina67631@gmail.com
 
 ---
 
